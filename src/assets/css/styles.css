@@ -1,0 +1,10 @@
+table thead tr th  {
+    width: 375px;
+}
+
+table thead tr th.id,
+table thead tr th.active,
+table thead tr th.gender  {
+    width: 150px;
+    text-align: center;
+}
